@@ -1,0 +1,22 @@
+{
+  "name": "pro-tech",
+  "version": "1.0.0",
+  "description": "techsperience projecti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidamydyti/pro-tech.git"
+  },
+  "author": "Nida Mydyti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidamydyti/pro-tech/issues"
+  },
+  "homepage": "https://github.com/nidamydyti/pro-tech#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
